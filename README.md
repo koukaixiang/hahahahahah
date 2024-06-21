@@ -1,4 +1,4 @@
-name   :  Wu Siyu
+name   :  koukaixiang
 
 
 
@@ -6,12 +6,10 @@ name   :  Wu Siyu
 
 
 
-student id   :  20222117
+student id   :  20222100
 
 
-
-application url:  http://47.237.81.89:8082/
-http://47.237.81.89:8085/
+application url:  http://47.237.110.46:8082/
 
 
 
